@@ -1,7 +1,7 @@
 # Magma- Awwards Replication
 This is me trying to replicate this Awwward Winning website.
 
-##Link to original website:
+## Link to original website:
 https://thisismagma.com/
 
 All the credits goes to the original creators.
