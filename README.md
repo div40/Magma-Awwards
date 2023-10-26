@@ -1,7 +1,6 @@
 # Magma- Awwards Replication
 This is me trying to replicate this Awwward Winning website. <br/>
-Uses HTML, CSS, JS, Canvas, LocomtiveJS, GSAP and ScrollTrigger <br/>
-(They used Threejs but I made the animations through canvas and scroll trigger)
+Using HTML, CSS, JS, Canvas, LocomtiveJS, GSAP and ScrollTrigger <br/>
 
 ## Link to original website:
 https://thisismagma.com/
